@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/bkapps/work/c2c/lib/Mixi/MarketPlace'
-let g:netrw_dirhist_2='/home/bkapps/work/c2c/lib/Mixi/Mall'
-let g:netrw_dirhist_3='/home/bkapps/work/c2c/lib/Mixi'
-let g:netrw_dirhist_4='/home/bkapps/work/c2c/lib'
-let g:netrw_dirhist_5='/home/bkapps/work/c2c/t/fixtures/factory'
